@@ -1,6 +1,6 @@
 {
   "name": "ecocdn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official library of EcoCDN",
   "main": "vodjs.min.js",
   "scripts": {
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/ecocdnn/EcoCDN/issues"
   },
-  "homepage": "https://github.com/ecocdnn/EcoCDN#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  }
+  "homepage": "https://github.com/ecocdnn/EcoCDN#readme"
 }
