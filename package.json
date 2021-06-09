@@ -1,0 +1,25 @@
+{
+  "name": "ecocdn",
+  "version": "1.0.0",
+  "description": "Official library of EcoCDN",
+  "main": "vodjs.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecocdnn/EcoCDN.git"
+  },
+  "keywords": [
+    "ecocdn"
+  ],
+  "author": "EcoCDN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecocdnn/EcoCDN/issues"
+  },
+  "homepage": "https://github.com/ecocdnn/EcoCDN#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
