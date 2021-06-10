@@ -136,7 +136,7 @@ window.Tracker.initVideojs({
 })
 ```
 ## Contact
-Trinh Huong - [trinhhuong244@gmail.com](trinhhuong244@gmail.com)
+Support Teams - [support@ecocdn.net](support@ecocdn.net)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
