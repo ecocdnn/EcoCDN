@@ -16,7 +16,7 @@ $ npm install ecocdn
 
 Or simply using CDN
 ```javascript
-<script source="https://cdn.jsdelivr.net/npm/ecocdn@1.0.0/vodjs.min.js"></script>
+<script source="https://cdn.jsdelivr.net/npm/ecocdn/vodjs.min.js"></script>
 ```
 
 ---
